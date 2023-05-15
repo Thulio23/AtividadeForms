@@ -38,7 +38,7 @@ a {
 }
 
 a:visited {
-    color: rgb(255, 255, 255);
+    color: rgb(red, green, blue);
 }
 
 a:hover {
@@ -97,7 +97,7 @@ tbody {
 
 table tr th,
 table tr td {
-    border: 0.1rem solid BLACK;
+    border: 0.1rem solid black;
     padding: 0.1rem;
 
 }
@@ -178,3 +178,9 @@ section{
     height: 100vh;
     color: black;
 }
+
+#topo{
+    height: 100vh;
+    color: black;
+}
+
